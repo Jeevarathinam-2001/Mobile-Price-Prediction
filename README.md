@@ -3,7 +3,7 @@
 This repository is based on the open source mobile price prediction dataset available in Kaggle
 https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 
-For this problem we need to perform multi-class classification and the number of instances is less than 20k we create compare linear classifers.
+For this problem we need to perform multi-class classification and the number of instances is less than 20k we create and compare linear classifers.
 After completing the necessary feature selection and data preprocessing we proceed towards building various ensemble models like Random Forest Classifer, Adaptive Boosting Classifier, XG Boost Classifier.
 Among the ensemble models XG Boost performs the best. 
 The evaluation metrics used here are accuracy_score, confusion matrix and F1-Score.
